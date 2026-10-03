@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of flarumchina/flarum-ext-simplified-chinese-pro.** Not for installation: use [Packagist](https://packagist.org/packages/flarumchina/flarum-ext-simplified-chinese-pro) or the [upstream repository](https://github.com/FlarumChina/flarum-ext-simplified-chinese-pro).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7.4`](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.7.4) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**15** versions archived · Latest: [`v0.1.0-beta.7.4`](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.7.4) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-10-28 | — | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-04 | — | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.6.3` | 2017-05-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6.3) |
+| `v0.1.0-beta.6.4` | 2017-06-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6.4) |
+| `v0.1.0-beta.6.5` | 2017-06-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6.5) |
+| `v0.1.0-beta.6.6` | 2017-06-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6.6) |
+| `v0.1.0-beta.6.7` | 2017-06-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6.7) |
+| `v0.1.0-beta.6.8` | 2017-06-14 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tree/archive/v0.1.0-beta.6.8) |
+
+[View all 15 versions](https://github.com/flarchive/flarumchina-flarum-ext-simplified-chinese-pro/tags)
 
 Catalog entry: [packages/flarumchina-flarum-ext-simplified-chinese-pro.json](https://github.com/flarchive/archive-index/blob/main/packages/flarumchina-flarum-ext-simplified-chinese-pro.json)
 
